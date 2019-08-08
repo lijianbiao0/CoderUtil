@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 验证码工具类属性 -->
+    <declare-styleable name="IndentifyingCode">
+        <!-- 验证码文字数量 -->
+        <attr name="codeCount" format="integer|reference"/>
+        <!-- 字体大小 -->
+        <attr name="textSize" format="dimension"/>
+    </declare-styleable>
+
+    <!-- 单选按钮LViewColumnRadioGroup属性 -->
+    <declare-styleable name="ColumnRadioGroup">
+        <!-- 验证码文字数量 -->
+        <attr name="columnCount" format="integer|reference"/>
+    </declare-styleable>
+</resources>
