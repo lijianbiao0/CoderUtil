@@ -38,10 +38,10 @@ dependencies {
 
 
 publish {
-    userOrg = 'lijianbiao0'
+    userOrg = 'lijianbiao'
     groupId = 'com.coderli'
     artifactId = 'LCoderUtil'
-    publishVersion = '1.0.0'
-    desc = ''
-    website = ''
+    publishVersion = '1.0.1'
+    desc = '优质代码库，便捷开发无二之选'
+    website = 'https://github.com/lijianbiao0/CoderUtil.git'
 }
